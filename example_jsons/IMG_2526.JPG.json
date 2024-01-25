@@ -1,0 +1,33 @@
+{
+  "title": "IMG_2526.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1511729262",
+    "formatted": "Nov 26, 2017, 8:47:42 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1461281633",
+    "formatted": "Apr 21, 2016, 11:33:53 PM UTC"
+  },
+  "geoData": {
+    "latitude": 42.1947833,
+    "longitude": -76.7912528,
+    "altitude": 326.77,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 42.1947833,
+    "longitude": -76.7912528,
+    "altitude": 326.77,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipN83C4XtNAv3EgmVsV3Mo168oYVJknLUc4fzoDY",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

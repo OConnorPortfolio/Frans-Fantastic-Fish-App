@@ -1,0 +1,33 @@
+{
+  "title": "IMG_2893.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1511729262",
+    "formatted": "Nov 26, 2017, 8:47:42 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1473720537",
+    "formatted": "Sep 12, 2016, 10:48:57 PM UTC"
+  },
+  "geoData": {
+    "latitude": 42.1950833,
+    "longitude": -76.7912,
+    "altitude": 332.3076171875,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 42.1950833,
+    "longitude": -76.7912,
+    "altitude": 332.3076171875,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipO0im2hU2GMwu510o3bYrU4ttacvUqyioMw0YcM",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

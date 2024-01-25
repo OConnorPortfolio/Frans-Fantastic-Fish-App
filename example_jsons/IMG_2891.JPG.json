@@ -1,0 +1,33 @@
+{
+  "title": "IMG_2891.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1511729262",
+    "formatted": "Nov 26, 2017, 8:47:42 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1473621992",
+    "formatted": "Sep 11, 2016, 7:26:32 PM UTC"
+  },
+  "geoData": {
+    "latitude": 42.1943694,
+    "longitude": -76.79155829999999,
+    "altitude": 320.6185567010309,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 42.1943694,
+    "longitude": -76.79155829999999,
+    "altitude": 320.6185567010309,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMRnXdvq6eYHeDDPy11T9K7y6YRcSiMDyrh9nyv",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}
