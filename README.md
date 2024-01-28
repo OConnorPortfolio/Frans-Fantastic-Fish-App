@@ -19,12 +19,12 @@ Frans Fantastic Fish App is a versatile tool designed for processing Google imag
 - CSS
 - JavaScript (FileReader, Blob [csvContent])
 - Vite
+- Netlify
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/frans-fantastic-fish-app.git`
-2. Navigate to the project folder: `cd frans-fantastic-fish-app`
+1. Clone the repository: `git clone https://github.com/your-username/ai-movie-picker.git`
+2. Connect repo to Netlify
 3. Install dependencies: `npm install`
-4. Run the project: `npm run dev`
 
 Example JSON files are included in the repo for reference.
 
@@ -38,6 +38,7 @@ Contributions and ideas are welcome. Please follow our [Contribution Guidelines]
 
 ## Credits
 - [Vite](https://vitejs.dev/)
+- [Netlify](https://www.netlify.com/)
 
 ## License
 This project is open source and available under the [MIT License](LICENSE).
