@@ -2,7 +2,7 @@
 
 ![Upload Screen](screenshots/app.png)
 
-Frans Fantastic Fish App is a versatile tool designed for processing Google image JSON files exported from Google Takeout. The app extracts essential information, allowing users to generate a CSV for creating a heatmap showcasing when and where fish were caught.
+Frans Fantastic Fish App is a tool designed for a specific user and use case. Processing Google image JSON files exported from Google Takeout. The app extracts essential information, allowing users to generate a CSV in order to create a heatmap showcasing when and where fish were caught.
 
 ## Table of Contents
 - [Technologies Used](#technologies-used)
