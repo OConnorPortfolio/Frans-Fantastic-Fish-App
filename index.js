@@ -38,8 +38,6 @@ function extractData(fileInput) {
                             altitude: jsonObject.geoData.altitude,
                             url: jsonObject.url
                         };
-                        console.log(jsonObject.description.split(';')[0])
-                        console.log(jsonObject.description.split(';')[1])
                         innerResolve(extractedData);
                     } catch (error) {
                         console.error(`Error parsing JSON file ${file.name}:`, error)
