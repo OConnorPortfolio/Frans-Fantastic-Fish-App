@@ -44,8 +44,8 @@ Contributions and ideas are welcome. Please follow our [Contribution Guidelines]
 This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact Information
-- LinkedIn: [Edward James O'Connor](https://www.linkedin.com/in/edwardjamesoconnor/)
-- GitHub: [Your GitHub Profile](https://github.com/Eddie-OConnor)
+- LinkedIn: [Eddie O'Connor](https://www.linkedin.com/in/edwardjamesoconnor/)
+- GitHub: [GitHub Profile](https://github.com/Eddie-OConnor)
 
 ## Future Improvements
 App v2 will track all required information per fish and allow the user to take a picture when a fish is caught, eliminating the need for Google Photos and app v1. App v2 will track:
